@@ -22,24 +22,22 @@
 		<Vaadin-Addon>${artifactId}-${project.version}.jar</Vaadin-Addon>
 	</properties>
 
-    <!--     
 	<organization>
-		<name>My Name</name>
-		<url>https://github.com/mygithubaccount/Date8Field/</url>
+		<name>Matti Tahvoenen</name>
+		<url>https://github.com/mstahv/date8field/</url>
 	</organization>
     
 	<scm>
-		<url>git://github.com/mygithubaccount/Date8Field.git</url>
-		<connection>scm:git:git://github.com/mygithubaccount/Date8Field.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:/mygithubaccount/${ComponentClassName}.git</developerConnection>
+		<url>git://github.com/mstahv/date8field.git</url>
+		<connection>scm:git:git://github.com/mstahv/date8field.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:/mstahv/date8field.git</developerConnection>
 		<tag>Date8Field add-on for Vaadin</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/mygithubaccount/Date8Field/issues</url>
+		<url>https://github.com/mstahv/date8field/issues</url>
 	</issueManagement>
-    -->
 
 	<licenses>
 		<license>
