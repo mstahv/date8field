@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/date8field---date8field-add-on)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/date8field---date8field-add-on.svg)](https://vaadin.com/directory/component/date8field---date8field-add-on)
+
 # Date8Field Add-on for Vaadin 7
 
 Date8Field is an UI component add-on for Vaadin 7. The idea is to provide Vaadin Field implementations for new Java 8 date and time types.
